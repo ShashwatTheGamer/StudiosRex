@@ -29,6 +29,7 @@ We also need map voting system. If you have played Piggy, you will notice that t
 1. Minigame
 2. Map
 3. Difficulty
+Also, if there are not 2+ maps, or the difficulty isnt defined, the voting for that shouldnt pop up, I mean like, if `HotDogRunner` for example is chosen, and if it doesnt have 2+ maps, then it shouldnt ask choose map, it should only ask chose difficulty.
 
 Now, what exactly is `Map` and `Difficulty`? I need you to make the script so that if 1 minigame have multiple maps, like the minigame `FloodEscape` can have multiple maps like the `city` and `forest`, the script should only spawn that map (after voting).
 
