@@ -55,9 +55,7 @@ Some of scripts are also inside the map itself, for moving parts etc. You can se
 
 1 last thing, if you have hear about the `Map Spawning Building Tweening Animation ` put that. If not, let me explain. It is when a map spawns, each and every part inside the model, flys in the air, tweens, and then comes into place. Its kinda complicated, so you can take this script from here https://www.roblox.com/library/6133699812/Twins-Tycoon-Kit-2-0.
 
-```text
 This is the script of a tycoon, there is a script called purchasehandeler in that, the function animateBuildingIn and related functions, u can use. It should be easy.
-```
 
 That's all you need to script. You will get the next task once you complete this.
 
