@@ -10,7 +10,7 @@ There are 2 options for payment.
 
 You have been given the access to the game. You can find it in `Roblox Studio > Group Games > Studios Rex > Minigame Simulator (there are 2 games with the same name, choose the one with the logo)`
 
-In there, you can have 1 days time to understand all the scripts, and codes. In the `workspace`, you can see a `string value` with `RoundScript` inside it. It has about 1000 lines. I know its a lot, but its just repetitive code. 
+In there, you can have 1 days time to understand all the scripts, and codes. In the `workspace`, you can see a `string value` with `RoundScript` inside it. It has about 1000 lines. I know its a lot, but its just repetitive code.
 
 You must have knowledge about `config scripts` they are just `module scripts` with a `table with variables` in it. Eg:
 ```lua
@@ -58,6 +58,8 @@ Some of scripts are also inside the map itself, for moving parts etc. You can se
 1 last thing, if you have hear about the `Map Spawning Building Tweening Animation ` put that. If not, let me explain. It is when a map spawns, each and every part inside the model, flys in the air, tweens, and then comes into place. Its kinda complicated, so you can take this script from here https://www.roblox.com/library/6133699812/Twins-Tycoon-Kit-2-0.
 
 This is the script of a tycoon, there is a script called purchasehandeler in that, the function animateBuildingIn and related functions, u can use. It should be easy.
+
+The round must end when everyone dies.
 
 That's all you need to script. You will get the next task once you complete this.
 
