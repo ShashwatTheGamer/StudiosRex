@@ -49,6 +49,8 @@
 
 **VIP server Command list: (player = username/random/others/all):** 
 
+- 300 robux, gives extra daily mission if you are in any private server
+
 - ;announce [message] 
 - ;mute | unmute [player] 
 - ;kick [player] [reason] 
