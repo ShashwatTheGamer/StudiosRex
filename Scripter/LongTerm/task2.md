@@ -66,18 +66,19 @@
 ### Tasks
 
 1. Finish the quests
-
-2. Add the XP & Level up system
-3. Fix all GUIs
-4. Script guis:
+2. Loading screen
+3. Add the XP & Level up system
+4. Fix all GUIs
+5. Script guis:
 	- Pets
 	- Halos
 	- Titles
 	- Effects
 	- Gears
 	- Gamepasses
-5. Cut scene at start of the minigame (like DeathRun)
-6. Cut scene to show the top 3 performers.
-7. Codes + Rewards
-8. Leaderboard and titles
-9. Make gamepasses one by one.
+6. Cut scene at start of the minigame (like DeathRun)
+7. Cut scene to show the top 3 performers.
+8. Codes + Rewards
+9. Leaderboard and titles
+10. Make gamepasses one by one.
+11. Donation Board
