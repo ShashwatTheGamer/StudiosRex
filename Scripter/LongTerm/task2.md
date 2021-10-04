@@ -31,7 +31,7 @@
 
 - Buy extra coins
 
-- Pets for robux
+- Eggs for robux
 
 - Titles for robux
 
