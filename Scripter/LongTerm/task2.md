@@ -2,6 +2,10 @@
 
 - 2x Coins
 
+- Freecam
+
+- HD admin VIP rank
+
 - 2x XP
 
 - Extra Contracts
@@ -84,3 +88,14 @@
 9. Leaderboard and titles
 10. Make gamepasses one by one.
 11. Donation Board
+12. When you win a minigame, a local gui should pop up, saying "You won!"
+13. Admin command to give us coins
+14. When me or Bhavya join, our avatar changes to our dream avatar
+15. For the codes, 
+	- Add join the group to use that code.
+	- Make a code advertizing system, on the codes menu, u click a button, and it asks ur group id/url and then, in the codes menu, adds that group's code, but the group needs to pay us R$ 
+16. Also, for the reward system, 
+	- Add timly rewards, i.e, if u stay in the game, ever 15 mins, u get extra coins.
+	- Add join group rewards, i.e and u get extra coins once
+	- Daily rewards 
+17. After the noobs quest is done, the avatar should change to a "pro"
