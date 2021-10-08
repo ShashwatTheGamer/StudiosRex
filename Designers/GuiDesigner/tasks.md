@@ -37,6 +37,8 @@ You must send us the `.psd` file.
 ## Spectate:
 ![image](https://user-images.githubusercontent.com/83714569/136594348-3d4035e1-edfa-4353-95cc-e447b8077d2a.png)
 
+![image](https://user-images.githubusercontent.com/83714569/136619442-339815f4-fc99-4d20-81c4-81e253ad45ab.png)
+
 # Codes:
 ### icon:
 ![image](https://user-images.githubusercontent.com/83714569/136594391-899723d0-a5d0-4aa5-b186-d8d9477cd82a.png)
@@ -63,6 +65,6 @@ You must send us the `.psd` file.
 ![image](https://user-images.githubusercontent.com/83714569/136596944-09932e61-ec3f-4a93-919b-7928ca4657c8.png)
 
 ## Daily Missions:
-![lol](https://user-images.githubusercontent.com/83714569/136619442-339815f4-fc99-4d20-81c4-81e253ad45ab.png)
+Its all the Jailbreak contracts GUI, Bhavya will them later.
 
 
