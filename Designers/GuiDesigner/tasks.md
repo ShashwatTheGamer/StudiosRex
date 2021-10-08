@@ -63,5 +63,6 @@ You must send us the `.psd` file.
 ![image](https://user-images.githubusercontent.com/83714569/136596944-09932e61-ec3f-4a93-919b-7928ca4657c8.png)
 
 ## Daily Missions:
+![lol](https://user-images.githubusercontent.com/83714569/136619442-339815f4-fc99-4d20-81c4-81e253ad45ab.png)
 
 
