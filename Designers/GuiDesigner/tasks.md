@@ -32,6 +32,8 @@ You must send us the `.psd` file.
 ## Radio:
 ![image](https://user-images.githubusercontent.com/83714569/136594318-89991563-5934-4295-8865-fddfcec94d4e.png)
 
+![image](https://user-images.githubusercontent.com/83714569/136600797-5e10a3e4-e54e-4c31-ac17-cc5b523eac5b.png) 
+
 ## Spectate:
 ![image](https://user-images.githubusercontent.com/83714569/136594348-3d4035e1-edfa-4353-95cc-e447b8077d2a.png)
 
@@ -56,5 +58,10 @@ You must send us the `.psd` file.
 
 ### **ALL THE SHOP MENUS, LIKE  PETS, TITLES, PERKS, EGGS** MUST BE THIS STYLE
 ![image](https://user-images.githubusercontent.com/83714569/136595084-935568b1-5c0b-4889-b487-d8dc54f0d833.png)
+
+## Voting:
+![image](https://user-images.githubusercontent.com/83714569/136596944-09932e61-ec3f-4a93-919b-7928ca4657c8.png)
+
+## Daily Missions:
 
 
