@@ -10,7 +10,7 @@ You must send us the `.psd` file.
 
 ![image](https://user-images.githubusercontent.com/83714569/136594436-b1488bd6-1e4b-45a1-bc07-ba1c3c8377a5.png)
 
-## Pets:
+## Pets: Add a "Equip" and Delete button too
 ![image](https://user-images.githubusercontent.com/83714569/136594164-146762fc-56b2-4bbf-b931-e066f4366fa9.png)
 
 ![image](https://user-images.githubusercontent.com/83714569/136594367-2811e06e-5033-43d6-81e3-ec52055956b0.png)
