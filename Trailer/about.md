@@ -12,7 +12,8 @@ The highest highlight should be on the minigames,
 The trailer should include 3 best minigames of our game...
 
 At the end, it should say "Minigame MadHouse" (or logo) and after that, 
-"Made by Studios Rex, in colaboration with Shayan Studios"
+"Made by Studios Rex, in colaboration with Shayan Studios".
+Also, the background here, should be a a blurred footage of the lobby.
 
 The trailer must be done before 12th, as the sound composer will work after that.. and we will launch after that...
 
