@@ -65,6 +65,8 @@ You must send us the `.psd` file.
 ![image](https://user-images.githubusercontent.com/83714569/136596944-09932e61-ec3f-4a93-919b-7928ca4657c8.png)
 
 ## Daily Missions:
-Its all the Jailbreak contracts GUI, Bhavya will them later.
+![image](https://user-images.githubusercontent.com/83714569/136656838-d051c82e-17f1-42f5-a34f-c338454ad382.png)
+
+![image](https://user-images.githubusercontent.com/83714569/136656843-10128080-e9f0-4337-a2bb-180919e4c6dc.png)
 
 
